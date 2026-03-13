@@ -3,9 +3,9 @@
 
 ### 관련 링크
 #### AR 코딩 엄랭 틱택토 유튜브 영상
-https://www.youtube.com/watch?v=EIXnPQqzZy4
+https://www.youtube.com/watch?v=0WkwI1TSgJM
 #### AR 코딩 유튜브 채널
-https://www.youtube.com/watch?v=EIXnPQqzZy4
+https://www.youtube.com/@AR_%EC%BD%94%EB%94%A9
 #### 엄랭 공식 Github
 https://github.com/rycont/umjunsik-lang
 
